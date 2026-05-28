@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchrarse",
+        "uuid": 1244100,
+        "checksum": "qy4zrk"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
